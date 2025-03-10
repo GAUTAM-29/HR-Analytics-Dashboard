@@ -1,7 +1,8 @@
-Data Modeling :
+# Data Modeling 
 
-fill null values >>
-click on view >> click on column quality >>
+Fill null values >>
+click on view >>
+click on column quality >>
 then check if any column have empty values , if 
 Empty shows some percent of value then fill it by 
 clicking on transform >> fill >> down(it will fill it by nearest value)
